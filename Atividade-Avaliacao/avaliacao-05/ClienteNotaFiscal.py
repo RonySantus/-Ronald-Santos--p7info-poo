@@ -26,5 +26,5 @@ classe  Cliente ():
 
 
 if  __name__  ==  '__main__' :
-    cliente  =  Cliente ( 1 , "Manoel Costa" , 100 , '200.100.345-34' )
+    cliente  =  Cliente ( 1 , "" , 100 , '200.100.345-34' )
     imprimir ( cliente . str ())

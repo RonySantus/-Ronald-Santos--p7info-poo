@@ -29,5 +29,5 @@ classe  Produto ():
 
 
 if  __name__  ==  '__main__' :
-    produto  =  Produto ( 1 , 100 , 'Macarrão' , 5.5 )
+    produto  =  Produto ( 1 , 100 , 'Arroz' , 5.5 )
     imprimir ( produto . str ())
